@@ -28,7 +28,7 @@ source ./venv/bin/activate
 Install required 3rd party libraries from [requirements.txt](./requirements.txt)
 
 ```
-python3 -m pip -U install pip
+python3 -m pip install -U pip
 python3 -m pip install -r requirements.txt
 ```
 
